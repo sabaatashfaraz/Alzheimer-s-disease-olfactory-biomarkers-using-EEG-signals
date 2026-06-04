@@ -1,0 +1,2 @@
+# Alzheimer-s-disease-olfactory-biomarkers-using-EEG-signals
+Investigated EEG responses to olfactory stimulation as potential early biomarkers of Alzheimer’s disease by analyzing phase–amplitude coupling and time‑resolved power dynamics. Developed a preprocessing pipeline using ICA for artifact removal and neural signal separation, and examined cross‑frequency coupling between theta and gamma oscillations.
